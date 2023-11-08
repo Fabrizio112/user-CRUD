@@ -3,7 +3,7 @@
 ## <i align="center" style="font-size:2rem">😀 CRUD DE USUARIOS</i>
 
 
-En este proyecto se usaron hooks como **useState,useEffect,useContext** , tenologias como  **HTML,CSS,JavaScript,React,SASS** , y para el manejo de estados **Redux**
+En este proyecto se usaron hooks como **useState,useEffect,useContext** , tenologias como  **HTML,CSS,JavaScript,React,SASS** , y para el manejo de estados **Redux**.
 
  _Este proyecto fue construido con el proposito de practicar Redux_
 
